@@ -133,6 +133,10 @@ plt.show()
 ```
 
 ## Output:
-Show your results here
+![image](https://github.com/user-attachments/assets/e9442c99-9767-4aec-bba7-e4c76641545d)
+![image](https://github.com/user-attachments/assets/36a59b80-055b-437e-9700-f4c92598db9f)
+
+![image](https://github.com/user-attachments/assets/132bc0a6-a1b7-4b9a-a5c2-e06f2feced06)
+![image](https://github.com/user-attachments/assets/f228a59d-13db-4221-a8db-0d6470f35685)
 
 
